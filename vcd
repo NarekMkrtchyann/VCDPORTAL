@@ -1,4 +1,4 @@
-EXTM3U
+#EXTM3U
 http://micro.vcd.am:8102/a0cq/index.m3u8?token=token%3D93cef3d8d4f147f0ad9ddd50d8cfef73%26token1%3D775547d4889a545ed94a712526190df6%26token2%3Dce3238a74da42ceaeaadef353e433276%26domain%3Dvcd%26key%3Dstreamer%26media_id%3D2936846%26timestamp%3D1769954441
 #EXTINF:0 tvg-id="ch1079" tvg-name"AМ Առաջին Ալիք" tvg-logo=tvtm.one/images/chIcons/1079.png" tvg-rec="6", AM: H1
 #EXTGRP: ARMENIA
